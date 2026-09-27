@@ -1,6 +1,4 @@
 # Two-Stage-Extreme-Value-Periodic-Regression-Approach
-Modeling Directional Seasonal Wind Speed Extremes Using a Two-Stage Extreme Value Periodic Regression Approach
-
 
 This repository contains the code and data associated with the manuscript *"Modeling Directional Seasonal Wind Speed Extremes Using a Two-Stage Extreme Value Periodic Regression Approach."*
 
